@@ -40,7 +40,6 @@
 <details>
 <summary><strong>更新日志：</strong></summary> 
 2025-05-29.2：更新 Docker Image 运行平台支持，可以通过 `docker pull erlichliu/deepclaude ` 拉取到本地运行，自动选择合适的平台版本。
-
 2025-05-29.1：feat: 系统配置添加 deepseek r1 的 max_tokens 设置，降低成本。
 
 
